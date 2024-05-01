@@ -1,6 +1,6 @@
 <div class="col-md-4 col-md-offset-4 col-xs-12">
 <img src="./img/logo2.png" alt="" style="display: block; margin: 10px auto; max-width: 80%;">
-    <h3 class="text-center">Bienvenido de nuevo <i class="fa fa-smile-o"></i></h3>
+    <h3 class="text-center">Bienvenido de nuevo</h3>
     <div class="col-md-12">
         <div class="form-group">
             <label for="usuario">Nombre de usuario</label>
