@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
-            background: linear-gradient(to right, #3380FF, #696B6E);
+            background: linear-gradient(to right, #1A62CD, #696B6E);
             padding-top: 50px;
             padding-bottom: 50px;
         }
@@ -19,6 +19,18 @@
             padding: 20px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
         }
+        .text-center {
+    color: #355586;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+    border-bottom: 2px solid #355586;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
     </style>
 </head>
 <body>

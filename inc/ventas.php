@@ -1,5 +1,10 @@
 
 <link rel="stylesheet" href="./css/abc.css">
+<style>
+    .btn-with-margin {
+    margin-right: 10px; /* Puedes ajustar el valor del margen según tus preferencias */
+}
+</style>
 <div class="container-fluid">
     <div class="row">
         <div class="col-xs-12">
@@ -22,9 +27,9 @@
                         <span class="hidden-xs"><kbd>F2</kbd> Cancelar toda la venta</span>
                     </button>
                 </div>
-            </div>
+            </div><br>
             <div class="form-group">
-                <label for="codigo_producto">Comienza a escribir o escanea el código</label>
+                <label for="codigo_producto">Comienza a escribir o escanea el código <i class="fa fa-search"></i></label>
                 <input class="form-control" type="text" id="codigo_producto"
                        placeholder="Comienza a escribir o escanea el código">
             </div>
