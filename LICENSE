@@ -1,5 +1,6 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2022 Luis Cabrera Benito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +20,37 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+Copyright (c) 2024 NexusTech
+
+Todos los derechos reservados.
+
+Definiciones:
+- "Software" se refiere al sistema desarrollado por NexusTech, incluyendo cualquier código fuente, documentación asociada, interfaces gráficas, diseños y recursos multimedia.
+- "Usuario" se refiere a cualquier persona o entidad que accede, utiliza, copia, modifica o distribuye el Software de alguna manera.
+- "Licencia" se refiere a estos términos y condiciones que regulan el uso del Software.
+
+1. Concesión de Licencia:
+NexusTech otorga al Usuario una licencia limitada, no exclusiva y no transferible para utilizar el Software de acuerdo con los términos de esta Licencia.
+
+2. Restricciones de Uso:
+El Usuario acepta que no podrá:
+a) Copiar, modificar, adaptar, traducir, realizar ingeniería inversa, descompilar o desensamblar el Software, excepto en la medida en que lo permita la ley aplicable.
+b) Distribuir, sublicenciar, alquilar, arrendar o de cualquier manera poner a disposición del público el Software.
+c) Utilizar el Software de manera que infrinja los derechos de propiedad intelectual de NexusTech u otros terceros.
+d) Eliminar, alterar u ocultar cualquier aviso de derechos de autor, marca registrada u otros avisos de propiedad que aparezcan en el Software.
+
+3. Derechos de Propiedad:
+El Usuario reconoce y acepta que NexusTech es el único propietario del Software y de todos los derechos de propiedad intelectual asociados al mismo. La titularidad del Software no se transfiere al Usuario bajo ninguna circunstancia.
+
+4. Garantía y Responsabilidad:
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA. NEXUSTECH RENUNCIA A CUALQUIER GARANTÍA, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EL USO DEL SOFTWARE ES POR CUENTA Y RIESGO DEL USUARIO. NEXUSTECH NO SERÁ RESPONSABLE ANTE EL USUARIO O CUALQUIER OTRA PARTE POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES DERIVADOS DEL USO O LA IMPOSIBILIDAD DE USAR EL SOFTWARE, INCLUSO SI NEXUSTECH HA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+
+5. Legislación Aplicable:
+Esta Licencia se regirá e interpretará de acuerdo con las leyes del Estado de [insertar estado/ciudad/país], sin tener en cuenta sus conflictos de disposiciones legales.
+
+6. Jurisdicción:
+Cualquier disputa relacionada con esta Licencia será sometida a la exclusiva jurisdicción de los tribunales del Estado de [insertar estado/ciudad/país].
+
+Al utilizar el Software, el Usuario acepta cumplir con los términos y condiciones de esta Licencia. Si el Usuario no está de acuerdo con estos términos, no está autorizado para utilizar el Software.
+>>>>>>> 1f2055bc46406114baddd61be3854df0cb982548

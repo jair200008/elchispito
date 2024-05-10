@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 El CHISPITO
+=======
+Tienda Viviana
+>>>>>>> 1f2055bc46406114baddd61be3854df0cb982548
 123456789
 RFC DE LA EMPRESA
 cra 2 # 2-24
