@@ -54,7 +54,9 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-4 col-xs-12">
                 <div class="login-box">
-                    <img src="./img/Supermarket-05-06.png" alt="" class="img-responsive center-block animate__animated animate__bounce" style="max-width: 80%;">
+                    <a href="https://paginatesteoweb.pages.dev/" target="_blank">
+                        <img src="./img/Supermarket-05-06.png" alt="" class="img-responsive center-block animate__animated animate__bounce" style="max-width: 80%;">
+                    </a>
                     <h3 class="text-center   animate__animated animate__backInLeft">Bienvenido</h3>
                     <div class="form-group">
                         <label for="usuario">Nombre de usuario</label>
