@@ -6,31 +6,47 @@
     <title>Iniciar Sesión</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <style>
         body {
-            background: linear-gradient(to right, #1A62CD, #696B6E);
+            background-image: url('./img/42447.jpg'); /* Reemplaza 'ruta_de_la_imagen.jpg' con la ruta de tu imagen */
+            background-size: cover; /* Para cubrir todo el área del body */
+            background-position: center; /* Para centrar la imagen */
             padding-top: 50px;
             padding-bottom: 50px;
         }
         .login-box {
             border: 1px solid #ccc;
-            border-radius: 5px;
+            border-radius: 20px;
             background-color: #fff;
             padding: 20px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
         }
         .text-center {
-    color: #355586;
-    font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-    font-weight: bold;
-    border-bottom: 2px solid #355586;
-    padding-bottom: 5px;
-    margin-bottom: 10px;
-}
+            color: #355586;
+            font-size: 30px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+            font-weight: bold;
+            border-bottom: 2px solid #355586;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        .copy {
+            text-align: center;
+            font-size: 12px;
+            color: #355586;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-top: 20px;
+        }
+
+        .copy a {
+            color: #355586;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -38,8 +54,8 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-4 col-xs-12">
                 <div class="login-box">
-                    <img src="./img/logo2.png" alt="" class="img-responsive center-block" style="max-width: 80%;">
-                    <h3 class="text-center">Bienvenido</h3>
+                    <img src="./img/Supermarket-05-06.png" alt="" class="img-responsive center-block animate__animated animate__bounce" style="max-width: 80%;">
+                    <h3 class="text-center   animate__animated animate__backInLeft">Bienvenido</h3>
                     <div class="form-group">
                         <label for="usuario">Nombre de usuario</label>
                         <input placeholder="Nombre de usuario" type="text" id="usuario" class="form-control">
@@ -51,6 +67,7 @@
                     <div class="form-group">
                         <button id="iniciar_sesion" class="btn btn-primary btn-block">Iniciar sesión <i class="fa fa-sign-in"></i></button>
                     </div>
+                    <p class="copy">copyright © NexusTech 2024</p>
                 </div>
             </div>
         </div>
