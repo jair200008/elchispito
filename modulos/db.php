@@ -1,7 +1,7 @@
 ﻿﻿<?php  
 $usuario = "root";
 $contraseña = "GKUbMwoxwblSiGvUTMXNQYKPMFTPleVa";
-const NOMBRE_BASE_DE_DATOS = "railway";
+const NOMBRE_BASE_DE_DATOS = "esquema";
 try {
     $base_de_datos = new PDO('mysql:host=roundhouse.proxy.rlwy.net;dbname=' . NOMBRE_BASE_DE_DATOS, $usuario, $contraseña);
     $base_de_datos->query("set names utf8;");
