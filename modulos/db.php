@@ -1,4 +1,4 @@
-﻿﻿<?php  
+﻿<?php  
 $usuario = "root";
 $contraseña = "GKUbMwoxwblSiGvUTMXNQYKPMFTPleVa";
 const NOMBRE_BASE_DE_DATOS = "esquema";
