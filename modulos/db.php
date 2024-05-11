@@ -1,9 +1,9 @@
 ﻿<?php  
-$usuario = "id22144283_jair";
-$contraseña = "Jair2008.";
-const NOMBRE_BASE_DE_DATOS = "id22144283_esquema";
+$usuario = "hzhfwpoyby";
+$contraseña = "Jair0820.";
+const NOMBRE_BASE_DE_DATOS = "elchispito-database";
 try {
-    $base_de_datos = new PDO('mysql:host=localhost;dbname=' . NOMBRE_BASE_DE_DATOS, $usuario, $contraseña);
+    $base_de_datos = new PDO('mysql:host=elchispito-server.mysql.database.azure.com;dbname=' . NOMBRE_BASE_DE_DATOS, $usuario, $contraseña);
     $base_de_datos->query("set names utf8;");
 	$base_de_datos->setAttribute( PDO::ATTR_EMULATE_PREPARES, FALSE );
 	$base_de_datos->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
