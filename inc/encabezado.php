@@ -2,11 +2,7 @@
 if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
 ?>
 <?php
-<<<<<<< HEAD
-const NOMBRE_NEGOCIO = "Tienda Viviana";
-=======
-const NOMBRE_NEGOCIO = "Tienda Juan";
->>>>>>> 1f2055bc46406114baddd61be3854df0cb982548
+const NOMBRE_NEGOCIO = "EL CHISPITO";
 ?>
 <!DOCTYPE html>
 <html>
