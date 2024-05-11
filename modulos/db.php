@@ -1,6 +1,6 @@
-﻿<?php  
+﻿﻿<?php  
 $usuario = "hzhfwpoyby";
-$contraseña = "Jair0820.";
+$contraseña = "Jair2080.";
 const NOMBRE_BASE_DE_DATOS = "elchispito-database";
 try {
     $base_de_datos = new PDO('mysql:host=elchispito-server.mysql.database.azure.com;dbname=' . NOMBRE_BASE_DE_DATOS, $usuario, $contraseña);
